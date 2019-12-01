@@ -1,10 +1,9 @@
 ---
 layout: blog
-title: 关于此博客
+title: 关于我们
 description: ""
 date: 2017-10-31 10:00:00
 tags: 
-- sunxiaofeiT
 - 简述
 - 关于
 - 联系方式
@@ -14,32 +13,18 @@ redirect_from:
 ---
 
 # 简述
-  搭建此博客的目的在于，分享自己在学习工作过程中遇到问题的解决办法，  
-  一方面提供给大家，不要走重复的路，
-  另一方面，也是给自己作一个备忘。
 
-  至于，博客起名 “七八” ，就是为了说明博客中会有各种文章，当然也有可能是我一通乱写。
+我们立足美利坚合众国,为全球华人服务。  
+上头视频在保证自身盈亏平衡的前提下，尽量为客户提供高清、较少广告的视频资源服务。  
+希望客户能理解上头视频的做法，毕竟带宽费用高企，所有广告营销均已投入网站建设。
 
-# 关于我
-  xunxiaofei/孙小飞  
+如果您发现网站内容有涉及侵权，* [请联系](mailto:shangtou.cc@gmail.com)
 
-  天津大学，软件工程，一差生    
-  
-  课余喜欢做做视频，PP图。 
- 
-# 联系方式
- 
-  有以下几种方式联系到我：
 
-* [提交Issues](https://github.com/sunxiaofeiT)
- 
-* [发邮件](mailto:wobushixiaofei@gmail.com)
 
-建议给我发邮件哟。
+# 其他说明
 
-# 说明
-
-此博客由 `Jekyll themes` 经我一点点改动得来。
+此博客由 `Jekyll themes` 经改动得来。
 
 * [Jekyll 模板来源](http://jekyllthemes.org/)
   
