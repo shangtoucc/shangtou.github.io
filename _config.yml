@@ -1,1 +1,40 @@
-theme: jekyll-theme-cayman
+# ----------- CONFIGURABLE START -----------
+title:            "上头视频-永久地址发布页"
+description:      "上头视频，让你上头"
+url:              "https://shangtou.github.io/" # 域名
+signoff:          "shangtou" # Your name
+facebook_appid:   #facebook_id
+google_analytics: UA-101222464-1
+share:            true 
+# 分页
+paginate: 15
+paginate_path: "liberxuepage:num"
+gems: [jekyll-paginate]
+links:
+  - name:         首页
+    url:          /
+    external:     false
+  - name:         最新地址
+    url:          /address
+    external:     false
+  - name:         关于下载
+    url:          /download
+    external:     false
+  - name:         关于充值
+    url:          /bill
+    external:     false
+  - name:         所有文章
+    url:          /contact
+    external:     false
+  - name:         关于我们
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+#permalink:        /:categories/:title.html
+permalink: /:year/:month/:day/:title.html
+defaults:
+  - values:
+      layout: "default"
+
+theme: jekyll-theme-slate
