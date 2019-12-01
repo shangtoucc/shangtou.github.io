@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>上头视频-永久地址发布页</title>
+    <description>上头视频，让你上头</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>上头视频  永久地址</title>
+        <category>address</category>
+        <description>上头视频站的永久域名请牢记永久地址  https://www.shangtou.cc/简单好记。但是会被封锁，你懂的。所以大部分情况下，你需要学会科学上网才能进入。不过没关系，我们会发布无需翻q...</description>
+        <pubDate>2019-11-12 10:30:00 </pubDate>
+        <link>http://localhost:4000/2019/11/12/address.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/12/address.html</guid>
+      </item>
+    
+      <item>
+        <title>分享送VIP</title>
+        <category>address</category>
+        <description>分享就送VIP将以下地址分享到任意社交平台，截图后，通过邮件发送到 shagntou.cc@gmail.com  http://shangtou66.cc/客服就将赠送您VIP天数，分享给个人，...</description>
+        <pubDate>2019-11-11 10:30:00 </pubDate>
+        <link>http://localhost:4000/2019/11/11/share.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/11/share.html</guid>
+      </item>
+    
+      <item>
+        <title>注册说明</title>
+        <category>address</category>
+        <description>上头视频站注册说明上头视频与bet365官网强强联合让您看累了玩两把，无缝衔接。只须根据本站任意跳转,到bet365进行注册充值，帐号即可在两个网站共同使用。※※※※完成注册即有24小时无限观看...</description>
+        <pubDate>2019-11-11 10:30:00 </pubDate>
+        <link>http://localhost:4000/2019/11/11/register.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/11/register.html</guid>
+      </item>
+    
+      <item>
+        <title>下载说明</title>
+        <category>download</category>
+        <description>上头视频站APP下载地址请进入以下任意网址后，根据您的手机操作系统，选择对应类型的APP  http://shangtou66.cc/  http://shangtou77.cc/目前，上头视频...</description>
+        <pubDate>2019-11-10 10:30:00 </pubDate>
+        <link>http://localhost:4000/2019/11/10/xiazai.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/10/xiazai.html</guid>
+      </item>
+    
+      <item>
+        <title>充值说明</title>
+        <category>bill</category>
+        <description>上头视频站的充值说明充值就送VIP各位会员只要在BET365首次进行任意充值，通过支付宝充值金额50元就送6个月VIP会员，充值300元送永久VIP会员。这个性价比无需多说了，绝对值得。BET3...</description>
+        <pubDate>2019-11-09 10:30:00 </pubDate>
+        <link>http://localhost:4000/2019/11/09/bill.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/09/bill.html</guid>
+      </item>
+    
+      <item>
+        <title>联系我们</title>
+        <category>contact</category>
+        <description>上头视频站的联系方式遇到任何问题，请联系BET365在线客服，或发送邮件到 shangtou.cc@gmail.com 或加入我们的telegram群组 https://t.me/shangto...</description>
+        <pubDate>2019-11-07 10:30:00 </pubDate>
+        <link>http://localhost:4000/2019/11/07/contact.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/07/contact.html</guid>
+      </item>
+    
+  </channel>
+</rss>
